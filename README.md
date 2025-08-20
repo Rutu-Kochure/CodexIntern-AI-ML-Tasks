@@ -1,36 +1,37 @@
-# CodexIntern AI/ML Tasks
+# CodexIntern AI/ML Internship Tasks
 
-This repository contains the tasks completed during my internship with **CodexIntern** under the AI/ML domain.
+This repository contains my internship tasks completed as part of the **CodexIntern AI/ML Internship**.  
+Each task is implemented in Python using Jupyter Notebooks and can be directly opened in **Google Colab** using the provided badges.
 
 ---
 
-## 📌 Tasks Completed
-### Task 1: Spam Detector
+## 📌 Task 1: Spam Detector
 - Implemented a spam email classifier using **Naive Bayes**.  
 - Achieved accuracy of **97.84%**.  
-- File: [`spam_detector.ipynb`](./spam_detector.ipynb)
+- File: [`spam_detector.ipynb`](./spam_detector.ipynb)  
 
-### Task 2: House Price Prediction
-- Built a machine learning model to predict house prices.  
-- Used **Linear Regression**.  
-- File: [`house_price.ipynb`](./house_price.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rutu-Kochure/CodexIntern-AI_ML-Tasks/blob/main/spam_detector.ipynb)
 
 ---
 
-## 🚀 How to Run
-1. Open the notebook in **Google Colab**:  
-   - Go to [Google Colab](https://colab.research.google.com/).  
-   - File → Open notebook → Select **GitHub** tab.  
-   - Paste repo link:  
-     ```
-     https://github.com/Rutu-Kochure/CodexIntern-AI_ML-Tasks
-     ```  
-2. Choose the desired notebook and click **Run all**.
+## 📌 Task 2: House Price Prediction
+- Built a machine learning model to predict house prices.  
+- Used **Linear Regression**.  
+- File: [`house_price.ipynb`](./house_price.ipynb)  
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rutu-Kochure/CodexIntern-AI_ML-Tasks/blob/main/house_price.ipynb)
 
-## 📊 Results
-- Spam Detector: **97.8% accuracy**  
-- House Price Model: Linear Regression trained successfully.
+---
+
+## 📌 How to Use
+1. Click on the **Open in Colab** badge for any task.  
+2. Run the notebook directly in Google Colab.  
+3. All dependencies will be installed automatically inside Colab.  
+
+---
+
+✨ Task Completed as part of my **AI/ML Internship @ CodexIntern** ✨
+
 
 
 ✨ Author: **Rutuja Kochure**
